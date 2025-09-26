@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/browser-extensions-dashboard-HsH8bX4RfT)
-- Live Site URL: [Netlify](https://68d6e1654a142830619cd171--starlit-eclair-f8a11c.netlify.app/)
+- Live Site URL: [Netlify]()*
 
 ## My process
 
